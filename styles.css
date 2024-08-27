@@ -1,0 +1,25 @@
+body {
+   color:olivedrab;
+   background:lightcoral;
+   margin: 0px;
+}
+
+header {
+   border-bottom: solid 3px olivedrab;
+   padding: 20px;
+   font-size: 32px;
+   color:olivedrab;
+}
+section {
+   background:firebrick;
+   padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
+.letras {
+   margin-right: 5%;
+}
+p {
+   font-size: 40px;
+}
